@@ -3,7 +3,7 @@ Implement a stack using an array and perform the following operations:<br>
 
 1. <b>Push:<b> Add an element to the top of the stack.<br>
 2. <b>Pop:<b> Remove and return the element from the top of the stack.<br>
-3. <b>Peek:<b> Return the element at the top of the stack without removing it.<br>
+3. <b>Peek:<b> Return the element at the top of the stack without removing iit.<br>
 4. <b>isEmpty:<b> Check if the stack is empty.<br>
 5. <b>isFull:<b> Check if the stack is full.<br>
 
